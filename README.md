@@ -1,6 +1,5 @@
 # Vision-based robotic arm Project
-![simple pick-place task](./media/simple%20pick-and-place%20darts.mp4) and 
-![complicated pick-place task](https://github.com/dragonundertheworld/vision-based-robot-arm/raw/refs/heads/main/media/complicated%20pick-and-place%20darts.mp4)
+Video of [simple pick-place task](./media/simple%20pick-and-place%20darts.mp4) and [complicated pick-place task](./media/complicated%20pick-and-place%20darts.mp4)
 ## Overview
 
 ### 1. 6-DOF Robotic Arm Mechanical Structure Assembly
