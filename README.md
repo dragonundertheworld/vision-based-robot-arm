@@ -1,5 +1,25 @@
 # Vision-based robotic arm Project
 Video of [simple pick-place task](./media/simple%20pick-and-place%20darts.mp4) and [complicated pick-place task](./media/complicated%20pick-and-place%20darts.mp4)
+- [Vision-based robotic arm Project](#vision-based-robotic-arm-project)
+  - [Overview](#overview)
+    - [1. 6-DOF Robotic Arm Mechanical Structure Assembly](#1-6-dof-robotic-arm-mechanical-structure-assembly)
+    - [2. Multi-DOF Robotic Arm Challenge Task](#2-multi-dof-robotic-arm-challenge-task)
+    - [Provided Hardware:](#provided-hardware)
+      - [Task Objective:](#task-objective)
+    - [Requirements:](#requirements)
+      - [Evaluation Criteria:](#evaluation-criteria)
+    - [3. Dart Starting Point Identification using Image Recognition](#3-dart-starting-point-identification-using-image-recognition)
+      - [Challenge:](#challenge)
+      - [Solution Approach:](#solution-approach)
+    - [4. Inverse Kinematics Analysis](#4-inverse-kinematics-analysis)
+      - [Objectives:](#objectives)
+  - [Features](#features)
+  - [Directory Structure](#directory-structure)
+  - [Software Components](#software-components)
+    - [Embedded (Motor Control)](#embedded-motor-control)
+    - [Vision (Object Detection)](#vision-object-detection)
+  - [Setup and Usage](#setup-and-usage)
+
 ## Overview
 
 ### 1. 6-DOF Robotic Arm Mechanical Structure Assembly
